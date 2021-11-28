@@ -160,9 +160,10 @@ Under each assignment, he can download all the solutions submitted, he can uploa
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by the official Moodle that we use so frequently but rarely ponder over the nuances of its features.
+- It was based on [so many tutorials](https://easytutorialspro.com/).
+- Many thanks to all the web-blogs, stacks-overflow, stack-Exchange websites that we visited un-countable times.
+- And we acknowledge and congragulate ourselves (these 4 sophies), who worked together, making the Team Blitzkrig come to existance.
 
 
 ## Contact
