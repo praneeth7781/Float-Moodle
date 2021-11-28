@@ -15,9 +15,9 @@
 
 
 ## General Information
-- It is a lite version of widely used Moodle
-- An interactive platform for teachers, ta's and students
-- It is part of project in software systems laboratory under prof Amitabha A.Sanyal
+- This project is a good start towards the development of widely used Moodle platform
+- Moodle is an interactive and learning platform for students and teachers
+- It is part of project in Software Systems Laboratory under professor Amitabha A.Sanyal
 
 
 ## Technologies Used
@@ -109,7 +109,14 @@ Under each assignment, he can download all the solutions submitted, he can uploa
 - They can also view cumulative performance of the class in the course till date
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+### Common Dashboard:
+![Common Dashboard](./screenshots/Common_Dashboard.png)
+### Teacher Course Page:
+![Teacher Course Page](./screenshots/Teacher_Course_Page.png)
+### Course Statistics:
+![Statistics](./screenshots/Statistics.png)
+### Communication:
+![Communication](./screenshots/Communication.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
